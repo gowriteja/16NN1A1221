@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"img":"back4.jpg",
+		"name":"gowri",
+		"roll":"16NN1A1221",
+		"Institute":"vignan's Nirula",
+		"place":"Guntur"
+	},
+	"career":{
+		"info":"The basic common mistake of apprentices / freshers making while him/her attending an interview or interview call or phone interview session or video conference session. Just have a look on these career objectives which were copied and pasted in many resume with completely"
+    },
+    "Education":[
+    {
+    	"Degree":"B.tech",
+    	"Insitution":"vigna's Nirula",
+    	"yop":"2020"
+    },
+    {
+    "Degree":"Intermediate",
+    "institution":"vgjc",
+    "yop":"2016"
+      },
+      {
+      	"Degree":"ssc",
+      	"instituion":"saint john's school",
+      	"yop":"2014"
+      	}
+ ],
+    "Languages":[
+    	{
+    		"Lang":"Telugu"
+    	},
+    	{
+    		"Lang":"English"
+    	},
+     {
+     	"Lang":"Hindi"
+     }
+   ],
+    "skills":[
+    	{
+    		"title":"platform",
+    		"Content":"window,Linux"
+    	},
+    	{
+    		"title":"programming Languages",
+    		"Content":"c,c++,java,html"
+    	},
+    	{
+    		"title":"Databases",
+    		"Content":"oracle,mysql"
+    	}
+    ]
+}
